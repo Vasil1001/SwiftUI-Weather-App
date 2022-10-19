@@ -3,6 +3,16 @@ A weather app for iOS written in SwiftUI. Created as part of the mobile developm
 #### Built With SwiftUI framework
 [![Swift][Swift.com]][Swift-url] [![Xcode][Xcode.com]][Xcode-url] 
 
+<!-- Technologies Used -->
+<details>
+  <summary>Technologies Used</summary>
+  <ol>
+    <li>Swift</li>
+    <li>Swift UI Framework</li>
+    <li>Xcode 13</li>
+  </ol>
+</details>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>

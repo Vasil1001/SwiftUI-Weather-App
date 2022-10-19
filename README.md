@@ -69,7 +69,7 @@ To run this app, you will need the following:
 - Type a city in the search bar and press the search button to display city temperature on main screen.
 - Afterwards, tap details page to get further details for the selected city.
 - Lastly, tap 5 day forecast page to retrieve hourly forecast for the selected city in a list.
-![Simulator Screen Recording - iPhone 13 Pro - 2022-10-19 at 20 51 10](https://user-images.githubusercontent.com/78150846/196818997-897a48a7-54a7-4976-9841-ef2a577da8b3.gif)
+
 
 <!-- improvement -->
 ## Improvement

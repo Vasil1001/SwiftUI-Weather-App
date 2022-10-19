@@ -52,6 +52,8 @@ List the ready features here:
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-10-19 at 13 16 35](https://user-images.githubusercontent.com/78150846/196710481-c5325461-4362-42f8-a3d8-d1d46176ba77.png)
+
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 

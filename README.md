@@ -33,9 +33,10 @@ A weather app for iOS written in SwiftUI. Created as part of the mobile developm
 
 Main Page | Detail Page | Hourly Forecast Page
 :-----------------------:|:-----------------------:|:-----------------------:
-![Simulator Screen Shot - iPhone 14 Pro - 2022-10-19 at 13 16 35](https://user-images.githubusercontent.com/78150846/196710481-c5325461-4362-42f8-a3d8-d1d46176ba77.png)|![Simulator Screen Shot - iPhone 14 Pro - 2022-10-19 at 13 16 35](https://user-images.githubusercontent.com/78150846/196710481-c5325461-4362-42f8-a3d8-d1d46176ba77.png)|![Simulator Screen Shot - iPhone 14 Pro - 2022-10-19 at 13 16 35](https://user-images.githubusercontent.com/78150846/196710481-c5325461-4362-42f8-a3d8-d1d46176ba77.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-10-19 at 13 16 35](https://user-images.githubusercontent.com/78150846/196710481-c5325461-4362-42f8-a3d8-d1d46176ba77.png)|![Simulator Screen Shot - iPhone 14 Pro - 2022-10-19 at 13 16 51](https://user-images.githubusercontent.com/78150846/196736415-6ef52c2e-cd6b-4eb2-8c9e-fb47284a8dd1.png)| ![Simulator Screen Shot - iPhone 14 Pro - 2022-10-19 at 13 17 04](https://user-images.githubusercontent.com/78150846/196736461-6d57d2f6-32c8-4466-9aa4-5bd59aca63ec.png)
 
 <!-- setup -->
+
 ## Setup
 To run this app, you will need the following:
   - A MacOS Machine

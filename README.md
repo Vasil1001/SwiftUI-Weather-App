@@ -1,6 +1,6 @@
 # SwiftUI-Weather-App<a name="readme-top"></a> 
 A weather app for iOS written in SwiftUI. Created as part of the mobile development iOS module at Westminster University.
-#### Built With SwiftUI framework
+
 [![Swift][Swift.com]][Swift-url] [![Xcode][Xcode.com]][Xcode-url] 
 
 <!-- Technologies Used -->
@@ -9,7 +9,7 @@ A weather app for iOS written in SwiftUI. Created as part of the mobile developm
   <ol>
     <li>Swift</li>
     <li>Swift UI Framework</li>
-    <li>Xcode 13</li>
+    <li>Xcode 13 (iOS Target 15.0+)</li>
   </ol>
 </details>
 

@@ -31,7 +31,7 @@ A weather app for iOS written in SwiftUI. Created as part of the mobile developm
 
 <!-- general-info -->
 ## General Info
-- This project is the final coursework of the mobile development module at University of Westminster.
+- This project is the final coursework for the mobile development module at University of Westminster.
 - The target learning outcomes are:
     - SwiftUI basics + layout
     - Model creation based on retrieved JSON data
